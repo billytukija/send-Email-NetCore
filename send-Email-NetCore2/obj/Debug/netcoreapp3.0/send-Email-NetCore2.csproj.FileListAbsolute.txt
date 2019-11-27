@@ -1,0 +1,15 @@
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\bin\Debug\netcoreapp3.0\send-Email-NetCore2.exe
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\obj\Debug\netcoreapp3.0\send-Email-NetCore2.csprojAssemblyReference.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\obj\Debug\netcoreapp3.0\send-Email-NetCore2.AssemblyInfoInputs.cache
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\obj\Debug\netcoreapp3.0\send-Email-NetCore2.AssemblyInfo.cs
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\bin\Debug\netcoreapp3.0\send-Email-NetCore2.deps.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\bin\Debug\netcoreapp3.0\send-Email-NetCore2.runtimeconfig.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\bin\Debug\netcoreapp3.0\send-Email-NetCore2.runtimeconfig.dev.json
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\bin\Debug\netcoreapp3.0\send-Email-NetCore2.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\bin\Debug\netcoreapp3.0\send-Email-NetCore2.pdb
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\bin\Debug\netcoreapp3.0\MailKit.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\bin\Debug\netcoreapp3.0\MimeKit.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\obj\Debug\netcoreapp3.0\send-Email-NetCore2.csproj.CopyComplete
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\obj\Debug\netcoreapp3.0\send-Email-NetCore2.dll
+C:\Users\billy.tukija\Documents\Repositories\GitHub\Contribuitions\BackEnd\CSharp\send-Email-NetCore2\send-Email-NetCore2\obj\Debug\netcoreapp3.0\send-Email-NetCore2.pdb
